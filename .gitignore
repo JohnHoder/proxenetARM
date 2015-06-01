@@ -1,0 +1,35 @@
+# ignoring following suffixes
+*.o
+*.log
+*.a
+*.Plo
+*.Po
+*.so
+*.so.0
+*.so.0.0.0
+*.pyc
+
+# ignoring following files
+TAGS
+proxenet
+gdb*
+.gdb_history
+ABOUT-NLS
+autom4te*
+build*/*
+insert-header.sin
+libtool
+po/*quot*
+*stamp
+stamp*
+keys/proxenet.key
+keys/proxenet.crt
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+stamp-h1
+site/
+config.h
+Makefile
+keys/certs
+proxenet-plugins
